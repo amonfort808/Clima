@@ -13,3 +13,13 @@ The objective of this app is break into the territory of using cocoapods and uti
 * Learning about delegates and protocols 
 * Introduction to proper switch statements in code
 
+# Snapshots of App
+
+### Start Screen
+<img src="/Images/start-screen.png" alt="Start Screen" width="50%" height="50%">
+
+
+
+### Login Screen
+<img src="/Images/getWeather-screen.png" alt="Get Weather Screen" width="50%" height="50%">
+
